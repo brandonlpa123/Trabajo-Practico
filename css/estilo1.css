@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    font-family: arial;}
+p{
+    color: azure;
+    text-align: justify;
+    margin: 30px;}
+img{
+    }
+header{
+    text-align: center;
+    color: #4199ff;
+    float: top;
+    background-color: #1B4F72;
+    height: 12%;
+    width: 100%;
+    font-size: large;}
+section{
+    background-color: #21618C;
+    color: aquamarine;
+    float: left;
+    width: 20%;
+    height: 590px;
+    letter-spacing: 1px;}
+aside{
+    background-color: #2E86C1;
+    color: aliceblue;
+    float: right;
+    width: 80%;
+    height: 590px;}
+footer{
+    background-color: #1B4F72;
+    text-align: center;
+    float: bottom;
+    width: 100%;
+    color: gold;
+}
